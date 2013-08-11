@@ -12,3 +12,7 @@ days_in_week = 7
 weeks = 7
 print minutes_in_hour * hours_in_day * days_in_week * weeks
 
+x= "maria"
+print x
+
+
